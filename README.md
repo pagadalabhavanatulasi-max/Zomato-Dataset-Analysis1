@@ -57,7 +57,9 @@ Build a restaurant recommendation system
 Perform sentiment analysis on customer reviews
 Use Machine Learning models for rating prediction
 Create an interactive dashboard using Power BI or Tableau
-Author Note
+Author
+Bhavana pagadala
+ Note
 This project was completed as part of the Alfido Tech Internship Program. It helped in improving skills in:
 Data Analysis
 Python Programming
